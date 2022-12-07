@@ -3,6 +3,7 @@ using namespace std;
 
 void train() {
 	cout << "Train\n";
+	cout << "The first feature is added.\n";
 }
 
 void predict() {
