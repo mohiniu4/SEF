@@ -5,13 +5,13 @@ void train() {
 	cout << "Train\n";
 }
 
-void predict() {
-	cout << "Predict\n";
-}
+//void predict() {
+//	cout << "Predict\n";
+//}
 
 // main() is where program execution begins.
 int main() {
 	train();
-	predict();
+	//predict();
 	return 0;
 }
