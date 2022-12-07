@@ -2,16 +2,16 @@
 using namespace std;
 
 void train() {
-	cout << "Train";
+	cout << "Train\n";
 }
 
-//void predict() {
-//	cout << "Predict";
-//}
+void predict() {
+	cout << "Predict\n";
+}
 
 // main() is where program execution begins.
 int main() {
 	train();
-	//predict();
+	predict();
 	return 0;
 }
